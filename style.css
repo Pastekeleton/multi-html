@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(26, 26, 26);
+}
+
+h1 {
+    color: rgb(192, 131, 17);
+    font-family: 'Times New Roman';
+}
+
+head {
+    color: rgb(192, 131, 17);
+    font-family: 'Times New Roman';
+    font-size: x-large;
+}
+
+p {
+    color: rgb(192, 131, 17);
+    font-family: 'Times New Roman';
+}
+
+figcaption {
+    color: rgb(192, 131, 17);
+    font-family: 'Times New Roman';
+}
+a {
+    color: rgb(6, 182, 6);
+    font-family: 'Times New Roman';
+}
